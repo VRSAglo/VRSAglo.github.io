@@ -13,24 +13,24 @@
 }
 p {
 
-    text-align: center; color: red;
+    text-align: center; color: black;
     
     }
     
     #para1 {
     
-    text-align: center; color: blue;
+    text-align: center; color: black;
     
     }
     
     .center {
     
-    text-align: center; color: green;
+    text-align: center; color: black;
     
     }
 
 body {
-	background: gray;
+	background: lightgray;
 	font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
