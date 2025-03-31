@@ -1,3 +1,14 @@
+h1 {
+    background-color: rgb(89, 85, 85);
+    color: white;
+    text-emphasis-color:  white;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;  
+    font-size: 48px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 4px #000000;
+}   
 .menu {
 
     display: flex;
