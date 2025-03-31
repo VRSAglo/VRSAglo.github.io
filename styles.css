@@ -22,6 +22,20 @@ h1 {
     padding: 10px; /* Add some padding for visual appeal */
 
 }
+Structure{
+    display: flex;
+    justify-content: space-around;
+    align-items: left;
+    width: 100%;
+    padding: 10px;
+}
+para1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: right;
+    width: 100%;
+    padding: 10px;
+}
 p {
 
     text-align: center; color: black;
